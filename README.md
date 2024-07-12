@@ -1,3 +1,5 @@
+![taco](https://github.com/user-attachments/assets/7bdae8a8-1f94-4af5-95a1-f85ece1a82c9)
+
 # Tool for Assessing Computer Operators (🌮)
 
 TACO started out as Medium's [career growth](https://medium.com/s/engineering-growth-framework) tool. It was rewritten in TypeScript and refactored for easy alterations.
