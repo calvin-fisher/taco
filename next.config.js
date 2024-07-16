@@ -1,5 +1,5 @@
 module.exports = {
-  basePath: '/taco',
+  basePath: process.env.BASE_PATH,
   exportPathMap: function() {
     return {
       '/': { page: '/' }

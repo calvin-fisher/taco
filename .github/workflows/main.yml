@@ -22,6 +22,9 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
+      - name: Configure basePath
+        run: export BASE_PATH=/taco
+
       - name: Build
         run: yarn export
         
