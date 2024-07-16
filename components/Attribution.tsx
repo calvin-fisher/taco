@@ -5,7 +5,7 @@ class Attribution extends React.Component {
     return (
       <div style={{display: 'flex', paddingBottom: '20px'}}>
         <div style={{flex: 1}}>
-          <p>Get the <a href="https://github.com/go-inc/taco" target="_blank">source code</a>.</p>
+          <p>Get the <a href="https://github.com/calvin-fisher/taco" target="_blank">source code</a>.</p>
         </div>
       </div>
     );
